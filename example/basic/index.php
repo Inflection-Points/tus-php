@@ -133,7 +133,7 @@
 </head>
 <body>
 <div class="container">
-    <a href="https://github.com/ankitpokhrel/tus-php" class="github-corner" aria-label="View source on Github">
+    <a href="https://github.com/inflection-points/tus-php" class="github-corner" aria-label="View source on Github">
         <svg width="80" height="80" viewBox="0 0 250 250"
              style="fill:#70B7FD; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true">
             <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
@@ -193,7 +193,7 @@
     </div>
 </div>
 <div class="project-info">
-    <a href="https://github.com/ankitpokhrel/tus-php">View this project in GitHub &#8594</a>
+    <a href="https://github.com/inflection-points/tus-php">View this project in GitHub &#8594</a>
 </div>
 <script type="text/javascript">
   jQuery(document).ready(function ($) {

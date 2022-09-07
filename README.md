@@ -1,22 +1,22 @@
 ﻿<h1 align="center">TusPHP</h1>
 
 <p align="center">
-    <a href="https://packagist.org/packages/ankitpokhrel/tus-php">
+    <a href="https://packagist.org/packages/inflection-points/tus-php">
         <img alt="PHP Version" src="https://img.shields.io/badge/php-7.2.5%2B-brightgreen.svg?style=flat-square" />
     </a>
-    <a href="https://github.com/ankitpokhrel/tus-php/actions/workflows/ci.yml?query=branch%3Amain+is%3Acompleted">
-        <img alt="Build Status" src="https://img.shields.io/github/workflow/status/ankitpokhrel/tus-php/CI?style=flat-square" />
+    <a href="https://github.com/inflection-points/tus-php/actions/workflows/ci.yml?query=branch%3Amain+is%3Acompleted">
+        <img alt="Build Status" src="https://img.shields.io/github/workflow/status/inflection-points/tus-php/CI?style=flat-square" />
     </a>
-    <a href="https://scrutinizer-ci.com/g/ankitpokhrel/tus-php">
-        <img alt="Code Coverage" src="https://img.shields.io/scrutinizer/coverage/g/ankitpokhrel/tus-php.svg?style=flat-square" />
+    <a href="https://scrutinizer-ci.com/g/inflection-points/tus-php">
+        <img alt="Code Coverage" src="https://img.shields.io/scrutinizer/coverage/g/inflection-points/tus-php.svg?style=flat-square" />
     </a>
-    <a href="https://scrutinizer-ci.com/g/ankitpokhrel/tus-php">
-        <img alt="Scrutinizer Code Quality" src="https://img.shields.io/scrutinizer/g/ankitpokhrel/tus-php.svg?style=flat-square" />
+    <a href="https://scrutinizer-ci.com/g/inflection-points/tus-php">
+        <img alt="Scrutinizer Code Quality" src="https://img.shields.io/scrutinizer/g/inflection-points/tus-php.svg?style=flat-square" />
     </a>
-    <a href="https://packagist.org/packages/ankitpokhrel/tus-php">
-        <img alt="Downloads" src="https://img.shields.io/packagist/dm/ankitpokhrel/tus-php.svg?style=flat-square" />
+    <a href="https://packagist.org/packages/inflection-points/tus-php">
+        <img alt="Downloads" src="https://img.shields.io/packagist/dm/inflection-points/tus-php.svg?style=flat-square" />
     </a>
-    <a href="https://github.com/ankitpokhrel/tus-php/blob/main/LICENSE">
+    <a href="https://github.com/inflection-points/tus-php/blob/main/LICENSE">
         <img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" />
     </a>
 </p>
@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-    <img alt="TusPHP Demo" src="https://github.com/ankitpokhrel/tus-php/blob/main/example/demo.gif" /><br/><br/>
-    <a href="https://medium.com/@ankitpokhrel/resumable-file-upload-in-php-handle-large-file-uploads-in-an-elegant-way-e6c6dfdeaedb">Medium Article</a>&nbsp;⚡&nbsp;<a href="https://github.com/ankitpokhrel/tus-php/wiki/Laravel-&-Lumen-Integration">Laravel & Lumen Integration</a>&nbsp;⚡&nbsp;<a href="https://github.com/ankitpokhrel/tus-php/wiki/Symfony-Integration">Symfony Integration</a>&nbsp;⚡&nbsp;<a href="https://github.com/ankitpokhrel/tus-php/wiki/CakePHP-Integration">CakePHP Integration</a>&nbsp;⚡&nbsp;<a href="https://github.com/ankitpokhrel/tus-php/wiki/WordPress-Integration">WordPress Integration</a>
+    <img alt="TusPHP Demo" src="https://github.com/inflection-points/tus-php/blob/main/example/demo.gif" /><br/><br/>
+    <a href="https://medium.com/@inflection-points/resumable-file-upload-in-php-handle-large-file-uploads-in-an-elegant-way-e6c6dfdeaedb">Medium Article</a>&nbsp;⚡&nbsp;<a href="https://github.com/inflection-points/tus-php/wiki/Laravel-&-Lumen-Integration">Laravel & Lumen Integration</a>&nbsp;⚡&nbsp;<a href="https://github.com/inflection-points/tus-php/wiki/Symfony-Integration">Symfony Integration</a>&nbsp;⚡&nbsp;<a href="https://github.com/inflection-points/tus-php/wiki/CakePHP-Integration">CakePHP Integration</a>&nbsp;⚡&nbsp;<a href="https://github.com/inflection-points/tus-php/wiki/WordPress-Integration">WordPress Integration</a>
 </p>
 
 <p align="center">
@@ -67,11 +67,11 @@ to pause, or by accident in case of a network issue or server outage.
 
 Pull the package via composer.
 ```shell
-$ composer require ankitpokhrel/tus-php
+$ composer require inflection-points/tus-php
 
 // Use v1 for php7.1, Symfony 3 or 4.
 
-$ composer require ankitpokhrel/tus-php:^1.2
+$ composer require inflection-points/tus-php:^1.2
 ```
 
 ### Usage
@@ -505,4 +505,4 @@ You can use `xdebug enable` and `xdebug disable` to enable and disable [Xdebug](
 Please feel free to report any bug found. Pull requests, issues, and project recommendations are more than welcome!
 
 ### Supporters
-[![JET BRAINS](.github/jetbrains.png)](https://www.jetbrains.com/?from=ankitpokhrel/tus-php)
+[![JET BRAINS](.github/jetbrains.png)](https://www.jetbrains.com/?from=inflection-points/tus-php)
