@@ -1,5 +1,5 @@
 {
-  "name": "ankitpokhrel/tus-php",
+  "name": "inflection-points/tus-php",
   "description": "A pure PHP server and client for the tus resumable upload protocol v1.0.0",
   "type": "library",
   "license": "MIT",
